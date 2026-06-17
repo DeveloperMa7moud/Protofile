@@ -1,6 +1,7 @@
 * {
     margin: 10px;
     background-color: #000;
+    min-height: max-content;
 }
 
 body {
