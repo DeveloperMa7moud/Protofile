@@ -4,6 +4,14 @@
     font-style: normal;
     font-size: x-large;
     background-color: midnightblue;
+    display: flex;
+    flex-direction: column;
+    
+}
+body {
+    border: 5px solid white;
+    border-radius: 30px;
+
 }
 h1 {
     color: #000;
