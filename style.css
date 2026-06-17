@@ -1,7 +1,7 @@
 * {
     margin: 10px;
     background-color: #000;
-    min-height: max-content;
+    min-height: min-content;
 }
 
 body {
