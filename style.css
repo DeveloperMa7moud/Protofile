@@ -1,16 +1,19 @@
 * {
     padding: 0;
     margin: 0;
-    font-style: normal;
     font-size: x-large;
     background-color: darkslateblue;
-    
+    height: 100%;
 
 }
 body {
     border: 5px solid white;
     border-radius: 30px;
     width: 70%;
+    padding:10px ;
+    justify-self:center;
+    display: flex;
+    align-items: center;
 
 }
 h1 {
