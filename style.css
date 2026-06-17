@@ -10,6 +10,9 @@ body {
     border-width: 35%;
     display:flex;
     justify-content: center;
-
+    font-weight: 800;
 }
-    
+.phone {
+    color: black;
+    font-weight: bold;
+}
