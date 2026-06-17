@@ -3,14 +3,14 @@
     margin: 10px;
     font-style: normal;
     font-size: x-large;
-    background-color: black;
+    background-color: midnightblue;
 }
 h1 {
-    color: blanchedalmond;
+    color: #000;
 }
 p {
     column-gap: normal;
-    color: darkcyan;
+    color:aliceblue;
 }
 div {
     color: orange;
