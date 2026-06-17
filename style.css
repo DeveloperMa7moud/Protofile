@@ -1,16 +1,17 @@
 * {
     padding: 15px;
-    margin: 10px;
+    margin: 20px;
     font-style: normal;
     font-size: x-large;
-    background-color: midnightblue;
+    background-color: darkslateblue;
     display: flex;
     flex-direction: column;
-    
+
 }
 body {
     border: 5px solid white;
     border-radius: 30px;
+    width: 70%;
 
 }
 h1 {
