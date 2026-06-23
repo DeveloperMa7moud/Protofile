@@ -1,10 +1,10 @@
 * {
     margin: 10px;
-    background-color: wheat;
 }
 
 body {
     padding: 20px;
+    background-color: antiquewhite;
     border: 5px solid black;
     border-radius: 8px;
     border-width: 35%;
@@ -15,4 +15,5 @@ body {
 .phone {
     color:cadetblue;
     font-weight: bold;
+    
 }
