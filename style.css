@@ -22,4 +22,5 @@ body {
 img {
     border-radius: 360px;
     width: 200px;
+    min-height: 100px;
 }
