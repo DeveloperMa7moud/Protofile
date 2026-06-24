@@ -20,6 +20,6 @@ body {
     
 }
 img {
-    shape-margin: 100px;
+    border-radius: 360px;
     width: 200px;
 }
