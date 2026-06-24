@@ -20,8 +20,9 @@ body {
     
 }
 img {
-    border-radius: 360px;
+    border-radius: 180px;
     width: 200px;
     min-height: 100px;
-    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
 }
