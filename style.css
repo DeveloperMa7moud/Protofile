@@ -21,8 +21,7 @@ body {
 }
 img {
     border-radius: 180px;
-    width: 200px;
+    width: 250px;
     min-height: 100px;
-    display: flex;
-    flex-direction: column;
+    align-self: start;
 }
