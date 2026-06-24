@@ -1,5 +1,7 @@
 * {
     margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
 }
 
 body {
@@ -10,7 +12,7 @@ body {
     border-width: 35%;
     display:flex;
     justify-content: center;
-    font-weight: 800;
+    max-width: 300px;
 }
 .phone {
     color:cadetblue;
